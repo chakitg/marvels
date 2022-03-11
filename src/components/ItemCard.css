@@ -1,0 +1,56 @@
+.card-container {
+  width: 300px;
+}
+
+.item-card {
+  width: 280px;
+  text-align: center;
+  padding: 0.5rem;
+  box-shadow: 20px 20px 50px 10px rgb(255, 196, 0) inset;
+}
+
+.popup-main {
+  font-weight: 900;
+  font-size: 3rem;
+}
+
+.popup {
+  box-shadow: 20px 20px 50px 10px rgb(255, 196, 0) inset;
+}
+.modal-dialog {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.modal-content {
+  width: 1000px;
+  box-sizing: unset !important;
+}
+.stats {
+  display: flex;
+  padding: 1rem;
+  gap: 5rem;
+}
+.popup-image {
+  width: 150px;
+}
+
+.titles {
+  font-weight: 400;
+  font-size: 1.3rem;
+}
+
+.description {
+  margin-top: 2rem;
+  font-size: 1.3rem;
+}
+.description-title {
+  font-weight: 700;
+  margin-bottom: 1.5rem;
+}
+.modal-body {
+  margin: 0%;
+  padding: 0%;
+  width: 300px;
+  box-sizing: unset;
+}
